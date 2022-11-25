@@ -1,4 +1,4 @@
-﻿TIPO;GRUPO;FAMILIA;ESPECIE;NOME_COMUM;CATEGORIA_AMEAÇA;SIGLA_AMEACA;BIOMA;AMEACA;PRESENCA_AREAS_PROTEGIDA;PLANO_ACAO_NACIONAL;ORDENAMENTO_PESQUEIRO;NIVEL_PROTECAO;EXCLUSIVA_BRASIL;ESTADO_OCORRECIA
+﻿TIPO;GRUPO;FAMILIA;ESPECIE;NOME_COMUM;CATEGORIA_AMEAÇA;SIGLA_AMEACA;BIOMA;AMEACA;PRESENCA_AREAS_PROTEGIDA;PLANO_ACAO_NACIONAL;ORDENAMENTO_PESQUEIRO;NIVEL_PROTECAO;EXCLUSIVA_BRASIL;ESTADO_OCORRENCIA
 Flora;Angiospermas;Salicaceae;Abatia angeliana;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Sim;PR
 Fauna;Aves;Cracidae;Aburria jacutinga;Jacutinga;Em Perigo (EN);EN;"Cerrado;Mata Atlântica";"Agropecuária;Assentamento Humano:cidades;Extração Direta:Caça/Pesca;Extração Florestal";Sim;Não;Não;4;Não;"BA;ES;MG;PR;RJ;RS;SC;SP"
 Flora;Angiospermas;Malvaceae;Abutilon anodoides;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Assentamentos Humanos: Cidades;Sim;Sim;Não;2;Sim;RJ
