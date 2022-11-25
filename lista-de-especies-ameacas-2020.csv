@@ -138,7 +138,7 @@ Flora;Angiospermas;Rutaceae;Almeidea coerulea;-;Em Perigo (EN);EN;Mata Atlântic
 Fauna;Peixes Marinhos;Alopiidae;Alopias superciliosus;Tubarão-raposa;Vulnerável (VU);VU;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Sim;4;Não;"AL;AP;BA;CE;ES;MA;PA;PB;PE;PI;PR;RJ;RN;RS;SC;SE;SP"
 Fauna;Peixes Marinhos;Alopiidae;Alopias vulpinus;Tubarão-raposa;Vulnerável (VU);VU;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Sim;4;Não;"AL;AP;BA;CE;ES;MA;PA;PB;PE;PI;PR;RJ;RN;RS;SC;SE;SP"
 Fauna;Mamíferos;Atelidae;Alouatta belzebul;Guariba-de-mãos-ruivas;Vulnerável (VU);VU;"Amazônia;Mata Atlântica";"Agropecuária;Assentamento Humano:cidades;Assentamento Humano:rurais;Extração Direta:Caça/Pesca;Outras Atividades Econômicas:Energia";Sim;Sim;Não;5;Sim;"AP;MA;PA;TO"
-Fauna;Mamíferos;Atelidae;Alouatta discolor;Guariba-de-mãos-ruivas;Vulnerável (VU);VU;Amazônia;"Agropecuária;Assentamento Humano:rurais;Extração Direta:Caça/Pesca;Outras Atividades Econômicas:Energia;Outras Atividades Econômicas:Transporte";Sim;Sim;Não;4;Sim;" MT;PA"
+Fauna;Mamíferos;Atelidae;Alouatta discolor;Guariba-de-mãos-ruivas;Vulnerável (VU);VU;Amazônia;"Agropecuária;Assentamento Humano:rurais;Extração Direta:Caça/Pesca;Outras Atividades Econômicas:Energia;Outras Atividades Econômicas:Transporte";Sim;Sim;Não;4;Sim;"MT;PA"
 Fauna;Mamíferos;Atelidae;Alouatta guariba clamitans;Bugio-ruivo;Vulnerável (VU);VU;"Cerrado;Mata Atlântica;Pampa;";"Agropecuária;Assentamento Humano:cidades;Extração Direta:Caça/Pesca;Mudanca Na Dinamica Das Especies Nativas: Patogenias/Parasitas";Sim;Sim;Não;3;Sim;"ES;MG;PR;RJ;RS;SC;SP"
 Fauna;Mamíferos;Atelidae;Alouatta guariba guariba;Bugio-marrom;Criticamente em Perigo (CR);CR;Mata Atlântica;"Agropecuária;Assentamento Humano:rurais;Extração Direta:Caça/Pesca";Sim;Sim;Não;3;Sim;"BA;ES;MG"
 Fauna;Mamíferos;Atelidae;Alouatta ululata;Guariba;Em Perigo (EN);EN;"Caatinga;Cerrado";"Agropecuária;Assentamento Humano:rurais;Extração Direta:Caça/Pesca;Extração Florestal;Outras Atividades Econômicas:Energia";Sim;Sim;Não;3;Sim;"CE;MA;PI"
@@ -303,7 +303,7 @@ Fauna;Peixes Continentais;Rivulidae;Atlantirivulus lazzarotoi;Peixe-anual;Critic
 Fauna;Peixes Continentais;Rivulidae;Atlantirivulus maricensis;Desconhecido;Criticamente em Perigo (CR);CR;Mata Atlântica;"Agropecuária;Mineração;Outras Atividades Econômicas:Transporte";Não;Não;Não;1;Sim;RJ
 Fauna;Peixes Continentais;Rivulidae;Atlantirivulus nudiventris;Peixe-anual;Criticamente em Perigo (CR);CR;Mata Atlântica;Assentamento Humano:cidades;Sim;Não;Não;1;Sim;ES
 Fauna;Peixes Continentais;Rivulidae;Atlantirivulus simplicis;Peixe-anual;Em Perigo (EN);EN;Mata Atlântica;Assentamento Humano:cidades;Não;Não;Não;1;Sim;"RJ;SP"
-Fauna;Peixes Marinhos;Arhynchobatidae;Atlantoraja castelnaui;Raia-chita;Em Perigo (EN);EN;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Sim;3;Não;" RS;PR;SC;SP"
+Fauna;Peixes Marinhos;Arhynchobatidae;Atlantoraja castelnaui;Raia-chita;Em Perigo (EN);EN;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Sim;3;Não;"RS;PR;SC;SP"
 Fauna;Répteis;Dipsadidae;Atractus caete;Cobra-da-terra-da-floresta;Em Perigo (EN);EN;"Caatinga;Mata Atlântica";"Agropecuária;Assentamento Humano:cidades";Sim;Sim;Não;3;Sim;"AL;PE"
 Fauna;Répteis;Dipsadidae;Atractus hoogmoedi;Desconhecido;Em Perigo (EN);EN;Amazônia;Agropecuária;Não;Sim;Não;1;Sim;PA
 Fauna;Répteis;Dipsadidae;Atractus ronnie;Cobra-da-terra-dos-brejos;Em Perigo (EN);EN;"Caatinga;Mata Atlântica";"Agropecuária;Extração Florestal;Queimadas";Sim;Sim;Não;3;Sim;CE
@@ -364,7 +364,7 @@ Flora;Angiospermas;Arecaceae;Bactris timbuiensis;-;Em Perigo (EN);EN;Mata Atlân
 Fauna;Invertebrados Terrestres;Baetidae;Baetodes capixaba;Siriruia;Vulnerável (VU);VU;Mata Atlântica;"Agropecuária;Poluição;Poluição Assoreamento";Sim;Não;Não;2;Sim;ES
 Fauna;Invertebrados Terrestres;Baetidae;Baetodes iuaquita;Siriruia;Vulnerável (VU);VU;Mata Atlântica;"Poluição;Poluição Assoreamento";Sim;Não;Não;2;Sim;ES
 Fauna;Peixes Continentais;Pimelodidae;Bagropsis reinhardti;Bagre;Vulnerável (VU);VU;Cerrado;"Mineração;Outras Atividades Econômicas:Energia;Poluição";Não;Sim;Não;1;Sim;MG
-Fauna;Mamíferos;Balaenopteridae;Balaenoptera borealis;Baleia-sei;Em Perigo (EN);EN;Marinho;"Extração Direta:Caça/Pesca;Outras Atividades Econômicas:Transporte;Poluição";Sim;Sim;Sim;4;Não;"AP;AL;BA;CE;ES;MA;PA;PB;PE;PI;PR;RN;RJ;RS;SE;SC;SP "
+Fauna;Mamíferos;Balaenopteridae;Balaenoptera borealis;Baleia-sei;Em Perigo (EN);EN;Marinho;"Extração Direta:Caça/Pesca;Outras Atividades Econômicas:Transporte;Poluição";Sim;Sim;Sim;4;Não;"AP;AL;BA;CE;ES;MA;PA;PB;PE;PI;PR;RN;RJ;RS;SE;SC;SP"
 Fauna;Mamíferos;Balaenopteridae;Balaenoptera musculus;Baleia-azul;Criticamente em Perigo (CR);CR;Marinho;"Outras Atividades Econômicas:Transporte;Poluição";Sim;Sim;Sim;4;Não;"CE;ES;PE;RN"
 Fauna;Mamíferos;Balaenopteridae;Balaenoptera physalus;Baleia-fin;Em Perigo (EN);EN;Marinho;"Outras Atividades Econômicas:Transporte;Poluição";Sim;Sim;Sim;4;Não;"ES;PE"
 Flora;Angiospermas;Malpighiaceae;Banisteriopsis andersonii;-;Vulnerável (VU);VU;Cerrado;Perda de Habitat/Degradação (Induzida por Humanos);Mineração;Sim;Sim;Não;3;Sim;MG
@@ -534,18 +534,18 @@ Fauna;Répteis;Dipsadidae;Calamodontophis ronaldoi;Cobra-espada-do-paraná;Em Pe
 Flora;Angiospermas;Asteraceae;Calea abbreviata;-;Criticamente em Perigo (CR);CR;Cerrado;Queimadas;Agropecuária;Espécies Invasoras;Sim;Sim;Não;3;Sim;"GO;MG"
 Flora;Angiospermas;Asteraceae;Calea acaulis;-;Vulnerável (VU);VU;"Cerrado;Mata Atlântica";;Sim;Não;Não;2;;"SP;PR"
 Flora;Angiospermas;Asteraceae;Calea brittoniana;-;Criticamente em Perigo (CR);CR;Cerrado;Distúrbio Humano;Turismo/Recreação;Sim;Não;Não;2;Sim;MG
-Flora;Angiospermas;Asteraceae;Calea gentianoides;-;Vulnerável (VU);VU;Cerrado;Agropecuária;Sim;Não;Não;2;;"MG;SP;PR "
+Flora;Angiospermas;Asteraceae;Calea gentianoides;-;Vulnerável (VU);VU;Cerrado;Agropecuária;Sim;Não;Não;2;;"MG;SP;PR"
 Flora;Angiospermas;Asteraceae;Calea heteropappa;-;Em Perigo (EN);EN;Cerrado;Transporte Terrestre/Aéreo;Queimadas;Sim;Não;Não;2;Sim;MG
 Flora;Angiospermas;Asteraceae;Calea kristiniae;-;Em Perigo (EN);EN;Pampa;Agropecuária;Sim;Sim;Não;2;Não;RS
 Flora;Angiospermas;Solanaceae;Calibrachoa eglandulata;-;Em Perigo (EN);EN;Mata Atlântica;;Sim;Sim;Não;2;Sim;SC
 Flora;Angiospermas;Solanaceae;Calibrachoa elegans;-;Em Perigo (EN);EN;"Cerrado;Mata Atlântica";Mineração;Sim;Não;Não;2;Sim;MG
 Flora;Angiospermas;Solanaceae;Calibrachoa humilis;-;Em Perigo (EN);EN;Pampa;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Não;RS
 Flora;Angiospermas;Solanaceae;Calibrachoa spathulata;-;Vulnerável (VU);VU;Mata Atlântica;;Sim;Não;Não;2;;"PR;SC"
-Fauna;Aves;Scolopacidae;Calidris canutus;Maçarico-de-papo-vermelho;Criticamente em Perigo (CR);CR;"Mata Atlântica;Pantanal";Mudanca Na Dinamica Das Especies Nativas: Patogenias/Parasitas;Sim;Sim;Não;4;Não;" AP;CE;MA;PA;PI;PR;RJ;RS;SC;SE;SP"
+Fauna;Aves;Scolopacidae;Calidris canutus;Maçarico-de-papo-vermelho;Criticamente em Perigo (CR);CR;"Mata Atlântica;Pantanal";Mudanca Na Dinamica Das Especies Nativas: Patogenias/Parasitas;Sim;Sim;Não;4;Não;"AP;CE;MA;PA;PI;PR;RJ;RS;SC;SE;SP"
 Fauna;Aves;Scolopacidae;Calidris pusilla;Maçarico-rasteirinho;Em Perigo (EN);EN;"Amazônia;Caatinga;Cerrado;Mata Atlântica;Pantanal";"Agropecuária;Agropecuária Aquacultura;Assentamento Humano:cidades;Mineração;Mudanca Na Dinamica Das Especies Nativas;Outras Atividades Econômicas:Energia;Outras Atividades Econômicas:Transporte;Outras Atividades Econômicas:Turismo;Poluição";Sim;Sim;Não;4;Não;"AL;AM;AP;BA;CE;ES;MA;PA;PB;PE;PI;PR;RJ;RN;RR;SE;SP"
 Fauna;Aves;Scolopacidae;Calidris subruficollis;Maçarico-acanelado;Vulnerável (VU);VU;"Amazônia;Mata Atlântica;Pantanal";"Agropecuária;Especies Exoticas;Mineração;Mudanca Na Dinamica Das Especies Nativas;Outras Atividades Econômicas:Energia";Sim;Sim;Não;2;Não;"MT;MS;PR;RJ;RS;SC"
 Flora;Angiospermas;Fabaceae;Calliandra carrascana;-;Em Perigo (EN);EN;Cerrado;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;MG
-Fauna;Mamíferos;Pitheciidae;Callicebus barbarabrownae;Guigó-da-caatinga;Criticamente em Perigo (CR);CR;Caatinga;"Agropecuária;Assentamento Humano:cidades;Assentamento Humano:rurais;Extração Florestal";Sim;Sim;Não;4;Sim;" BA;SE"
+Fauna;Mamíferos;Pitheciidae;Callicebus barbarabrownae;Guigó-da-caatinga;Criticamente em Perigo (CR);CR;Caatinga;"Agropecuária;Assentamento Humano:cidades;Assentamento Humano:rurais;Extração Florestal";Sim;Sim;Não;4;Sim;"BA;SE"
 Fauna;Mamíferos;Pitheciidae;Callicebus coimbrai;Guigó;Em Perigo (EN);EN;"Caatinga;Mata Atlântica";"Agropecuária;Assentamento Humano:cidades;Assentamento Humano:rurais";Sim;Sim;Não;3;Sim;"BA;SE"
 Fauna;Mamíferos;Pitheciidae;Callicebus melanochir;Guigó;Vulnerável (VU);VU;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades;Assentamento Humano:rurais";Sim;Sim;Não;3;Sim;"BA;ES;MG"
 Fauna;Mamíferos;Pitheciidae;Callicebus personatus;Sauá-de-cara-preta;Vulnerável (VU);VU;"Cerrado;Mata Atlântica";"Agropecuária;Assentamento Humano:rurais";Sim;Sim;Não;3;Sim;"ES;MG;BA"
@@ -620,7 +620,7 @@ Fauna;Peixes Marinhos;Odontaspididae;Carcharias taurus;Cação-mangona;Criticame
 Fauna;Peixes Marinhos;Lamnidae;Carcharodon carcharias;Tubarão-branco;Vulnerável (VU);VU;Marinho;"Extração Direta:Caça/Pesca;Poluição";Sim;Sim;Não;3;Não;"AL;AP;BA;CE;ES;MA;PA;PB;PE;PI;PR;RJ;RN;RS;SC;SE;SP"
 Fauna;Invertebrados Aquáticos;Gecarcinidae;Cardisoma guanhumi;Guaiamum;Criticamente em Perigo (CR);CR;Marinho;"Agropecuária Aquacultura;Assentamento Humano:cidades";Sim;Sim;Sim;3;Não;"AL;BA;CE;ES;PB;PE;RJ;RN;SC;SE;SP"
 Fauna;Répteis;Cheloniidae;Caretta caretta;Tartaruga-cabeçuda;Em Perigo (EN);EN;Marinho;"Assentamento Humano:cidades;Extração Direta:Caça/Pesca;Mineração;Outras Atividades Econômicas:Transporte;Outras Atividades Econômicas:Turismo;Poluição";Sim;Sim;Sim;4;Não;"AL;BA;ES;RJ;SE"
-Flora;Angiospermas;Lecythidaceae;Cariniana ianeirensis;Jequitibá-açu;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;;"MG;SP;PR "
+Flora;Angiospermas;Lecythidaceae;Cariniana ianeirensis;Jequitibá-açu;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;;"MG;SP;PR"
 Flora;Angiospermas;Lecythidaceae;Cariniana legalis;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;3;Sim;"BA;PB;PE;ES;MG;RJ;SP;PR"
 Flora;Angiospermas;Lecythidaceae;Cariniana parvifolia;jequitibá-cravino;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;ES
 Fauna;Aves;Cotingidae;Carpornis melanocephala;Sabiá-pimenta;Vulnerável (VU);VU;Mata Atlântica;"Extração Florestal;Queimadas";Sim;Não;Não;3;Sim;"AL;BA;ES;MG;PR;RJ;SE;SP"
@@ -855,7 +855,7 @@ Flora;Angiospermas;Bromeliaceae;Cryptanthus zonatus;-;Vulnerável (VU);VU;Mata A
 Fauna;Invertebrados Terrestres;Cryptopidae;Cryptops (Cryptops) spelaeoraptor;Lacraia;centopeia;Vulnerável (VU);VU;Caatinga;Agropecuária;Não;Não;Não;1;Sim;BA
 Fauna;Invertebrados Terrestres;Cryptopidae;Cryptops (Trigonocryptops) iporangensis;Lacraia;centopeia;Em Perigo (EN);EN;Mata Atlântica;Outras Atividades Econômicas:Turismo;Não;Não;Não;1;Sim;SP
 Fauna;Aves;Tinamidae;Crypturellus noctivagus noctivagus;Jaó-do-sul;Vulnerável (VU);VU;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades;Extração Direta:Caça/Pesca";Sim;Sim;Não;3;Sim;"BA;ES;MG;PR;RJ;RS;SC;SP"
-Fauna;Aves;Tinamidae;Crypturellus noctivagus zabele;Zabelê;Vulnerável (VU);VU;"Caatinga;Cerrado";"Agropecuária;Extração Direta:Caça/Pesca;Queimadas";Sim;Sim;Não;3;Sim;" BA;MG;PE;PI"
+Fauna;Aves;Tinamidae;Crypturellus noctivagus zabele;Zabelê;Vulnerável (VU);VU;"Caatinga;Cerrado";"Agropecuária;Extração Direta:Caça/Pesca;Queimadas";Sim;Sim;Não;3;Sim;"BA;MG;PE;PI"
 Fauna;Mamíferos;Ctenomyidae;Ctenomys bicolor;Tuco-tuco;Em Perigo (EN);EN;Amazônia;Agropecuária;Sim;Não;Não;2;Sim;RO
 Fauna;Mamíferos;Ctenomyidae;Ctenomys flamarioni;Tuco-tuco;Em Perigo (EN);EN;Pampa;"Assentamento Humano:cidades;Especies Exoticas;Extração Direta:Caça/Pesca;Mineração";Sim;Sim;Não;2;Sim;RS
 Fauna;Mamíferos;Ctenomyidae;Ctenomys lami;Tuco-tuco;Em Perigo (EN);EN;Pampa;"Agropecuária;Assentamento Humano:cidades;Mudanca Na Dinamica Das Especies Nativas";Sim;Não;Não;2;Sim;RS
@@ -923,14 +923,14 @@ Fauna;Aves;Dendrocolaptidae;Dendrocincla merula badia;Arapaçu-da-taoca;Vulnerá
 Fauna;Aves;Dendrocolaptidae;Dendrocincla taunayi;Arapaçu-pardo-do-nordeste;Em Perigo (EN);EN;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades";Sim;Não;Não;1;Sim;"AL;PE"
 Fauna;Aves;Dendrocolaptidae;Dendrocolaptes medius;Arapaçu-barrado-do-leste;Vulnerável (VU);VU;"Amazônia;Cerrado;Mata Atlântica";Agropecuária;Sim;Não;Não;2;Sim;"AL;MA;PA;PE"
 Fauna;Aves;Dendrocolaptidae;Dendrocolaptes picumnus transfasciatus;Arapaçu-meio-barrado;Vulnerável (VU);VU;Amazônia;"Agropecuária;Outras Atividades Econômicas:Transporte";Sim;Não;Não;3;Sim;"MT;MS;PA;TO"
-Fauna;Aves;Dendrocolaptidae;Dendrocolaptes retentus;Arapaçu-barrado-do-xingu;Vulnerável (VU);VU;Amazônia;Agropecuária;Sim;Não;Não;3;Sim;" PA;TO"
+Fauna;Aves;Dendrocolaptidae;Dendrocolaptes retentus;Arapaçu-barrado-do-xingu;Vulnerável (VU);VU;Amazônia;Agropecuária;Sim;Não;Não;3;Sim;"PA;TO"
 Flora;Angiospermas;Asteraceae;Dendrophorbium catharinense;-;Vulnerável (VU);VU;Mata Atlântica;Agropecuária;Mineração;Assentamentos Humanos: Cidades;Sim;Sim;Não;2;Sim;"RS;SC"
 Flora;Angiospermas;Asteraceae;Dendrophorbium paranense;-;Em Perigo (EN);EN;Mata Atlântica;Agropecuária;Sim;Não;Não;2;Sim;"PR;RS;SC"
 Fauna;Répteis;Dermochelydae;Dermochelys coriacea;Tartaruga-de-couro;Criticamente em Perigo (CR);CR;Marinho;"Assentamento Humano:cidades;Extração Direta:Caça/Pesca;Mineração;Outras Atividades Econômicas:Transporte;Outras Atividades Econômicas:Turismo;Poluição";Sim;Sim;Sim;4;Não;"AL;AP;BA;CE;ES;MA;PA;PB;PI;PE;RJ;RN;SE"
 Flora;Angiospermas;Poaceae;Deschampsia caespitosa;-;Em Perigo (EN);EN;Mata Atlântica;Agropecuária;Sim;Não;Não;2;Não;"PR;RS;SC"
 Flora;Angiospermas;Fabaceae;Desmodium craspediferum;-;Em Perigo (EN);EN;Mata Atlântica;Plantação de Madereiras;Sim;Não;Não;2;Sim;"PR;RS"
 Flora;Angiospermas;Bromeliaceae;Deuterocohnia meziana;-;Vulnerável (VU);VU;Pantanal;Queimadas;Sim;Não;Não;2;;"MS;MT"
-Flora;Angiospermas;Poaceae;Diandrolyra tatianae;-;Em Perigo (EN);EN;Mata Atlântica;;Sim;Não;Não;2;Sim;"BA;ES;MG;RJ;SP "
+Flora;Angiospermas;Poaceae;Diandrolyra tatianae;-;Em Perigo (EN);EN;Mata Atlântica;;Sim;Não;Não;2;Sim;"BA;ES;MG;RJ;SP"
 Fauna;Invertebrados Terrestres;Formicidae;Diaphoromyrma sofiae;Formiga;Em Perigo (EN);EN;Mata Atlântica;Agropecuária;Sim;Não;Não;1;Sim;BA
 Fauna;Peixes Continentais;Characidae;Diapoma pyrrhopteryx;Lambari;Em Perigo (EN);EN;Mata Atlântica;Outras Atividades Econômicas:Energia;Não;Sim;Não;1;Sim;"RS;SC"
 Flora;Angiospermas;Orchidaceae;Dichaea mosenii;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;"RJ;SP"
@@ -943,7 +943,7 @@ Fauna;Invertebrados Terrestres;Scarabaeidae;Dichotomius mysticus;Besouro rola-bo
 Fauna;Invertebrados Terrestres;Scarabaeidae;Dichotomius schiffleri;Besouro rola-bosta;Em Perigo (EN);EN;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades;Extração Florestal;Queimadas";Sim;Não;Não;2;Sim;"AL;BA;ES;PE;SE"
 Flora;Pteridófitas;Dicksoniaceae;Dicksonia sellowiana;-;Em Perigo (EN);EN;Mata Atlântica;Extração de Madeira;Extração Direta;Sim;Sim;Não;3;Sim;"MG;ES;SP;RJ;PR;SC;RS"
 Flora;Angiospermas;Lauraceae;Dicypellium caryophyllaceum;cravo-de-Maranhão;Criticamente em Perigo (CR);CR;Amazônia;Extração de Madeira;Sim;Não;Não;3;;"MA;PA"
-Flora;Angiospermas;Poaceae;Digitaria neesiana;capim-do-campo-limpo;Em Perigo (EN);EN;Cerrado;Agropecuária;Sim;Sim;Não;2;Não;"DF;GO;MS;MT;MG;SP "
+Flora;Angiospermas;Poaceae;Digitaria neesiana;capim-do-campo-limpo;Em Perigo (EN);EN;Cerrado;Agropecuária;Sim;Sim;Não;2;Não;"DF;GO;MS;MT;MG;SP"
 Flora;Angiospermas;Bignoniaceae;Digomphia densicoma;kirpau;Vulnerável (VU);VU;Amazônia;;Sim;Não;Não;1;Não;"AM;RR"
 Flora;Angiospermas;Asteraceae;Dimerostemma annuum;-;Em Perigo (EN);EN;Pantanal;Agropecuária;Sim;Não;Não;2;Não;MT
 Flora;Angiospermas;Asteraceae;Dimerostemma episcopale;-;Em Perigo (EN);EN;"Caatinga;Cerrado";Queimadas;Agropecuária;Sim;Não;Não;2;;BA
@@ -986,7 +986,7 @@ Flora;Angiospermas;Cactaceae;Discocactus horstii;-;Criticamente em Perigo (CR);C
 Flora;Angiospermas;Cactaceae;Discocactus pseudoinsignis;-;Criticamente em Perigo (CR);CR;Cerrado;Barragens;Plantação de Madereiras;Sim;Sim;Não;3;Sim;MG
 Flora;Angiospermas;Cactaceae;Discocactus zehntneri;-;Vulnerável (VU);VU;Caatinga;Barragens;Extração Direta;Sim;Não;Não;3;Sim;BA
 Fauna;Aves;Trochilidae;Discosura langsdorffi langsdorffi;Rabo-de-espinho;Em Perigo (EN);EN;Mata Atlântica;"Agropecuária;Extração Florestal";Sim;Sim;Não;4;Sim;"BA;ES;RJ"
-Flora;Angiospermas;Asteraceae;Disynaphia ericoides;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Não;"PR;RS;SP "
+Flora;Angiospermas;Asteraceae;Disynaphia ericoides;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Não;"PR;RS;SP"
 Flora;Angiospermas;Asteraceae;Disynaphia praeficta;-;Em Perigo (EN);EN;Cerrado;Mineração;Extração de Madeira;Extração de Não Madereiras;Sim;Sim;Não;2;;MG
 Flora;Angiospermas;Asteraceae;Disynaphia variolata;-;Em Perigo (EN);EN;Mata Atlântica;Agropecuária;Espécies Invasoras;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;;PR
 Flora;Angiospermas;Apocynaceae;Ditassa arianeae;-;Em Perigo (EN);EN;Mata Atlântica;Assentamentos Humanos: Cidades;Sim;Não;Não;2;Sim;"BA;ES;RJ"
@@ -1152,7 +1152,7 @@ Flora;Angiospermas;Myrtaceae;Eugenia malacantha;-;Em Perigo (EN);EN;Mata Atlânt
 Flora;Angiospermas;Myrtaceae;Eugenia mattosii;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;SC
 Flora;Angiospermas;Myrtaceae;Eugenia myrciariifolia;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;PR
 Flora;Angiospermas;Myrtaceae;Eugenia neosericea;-;Em Perigo (EN);EN;Mata Atlântica;Mineração;Sim;Não;Não;2;Sim;MG
-Flora;Angiospermas;Myrtaceae;Eugenia neotristis;-;Em Perigo (EN);EN;Mata Atlântica;Assentamentos Humanos: Cidades;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Não;"ES;MG;RJ;SP;PR;RS;SC;BA;DF;GO;MS "
+Flora;Angiospermas;Myrtaceae;Eugenia neotristis;-;Em Perigo (EN);EN;Mata Atlântica;Assentamentos Humanos: Cidades;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Não;"ES;MG;RJ;SP;PR;RS;SC;BA;DF;GO;MS"
 Flora;Angiospermas;Myrtaceae;Eugenia oxyoentophylla;-;Em Perigo (EN);EN;Mata Atlântica;Assentamentos Humanos: Cidades;Perda de Habitat/Degradação (Induzida por Humanos);Queimadas;Espécies Invasoras;Sim;Não;Não;2;Sim;RJ
 Flora;Angiospermas;Myrtaceae;Eugenia pachyclada;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Sim;SC
 Flora;Angiospermas;Myrtaceae;Eugenia peruibensis;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;SP
@@ -1235,7 +1235,7 @@ Flora;Angiospermas;Ericaceae;Gaylussacia oleifolia;-;Em Perigo (EN);EN;Cerrado;Q
 Flora;Angiospermas;Ericaceae;Gaylussacia pruinosa;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Desenvolvimento e Infraestrutura;Perda de Habitat/Degradação (Induzida por Humanos);Queimadas;Sim;Sim;Não;2;Sim;RJ
 Flora;Angiospermas;Ericaceae;Gaylussacia retivenia;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Queimadas;Assentamentos Humanos: Cidades;Desenvolvimento e Infraestrutura;Sim;Sim;Não;2;Sim;RJ
 Flora;Angiospermas;Ericaceae;Gaylussacia setosa;-;Criticamente em Perigo (CR);CR;Cerrado;Agropecuária;Queimadas;Sim;Não;Não;2;Sim;MG
-Fauna;Peixes Marinhos;Ariidae;Genidens barbus;Bagre-branco;Em Perigo (EN);EN;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Sim;3;Não;"BA;PR;RS "
+Fauna;Peixes Marinhos;Ariidae;Genidens barbus;Bagre-branco;Em Perigo (EN);EN;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Sim;3;Não;"BA;PR;RS"
 Fauna;Peixes Marinhos;Ariidae;Genidens planifrons;Bagre-marinho;Criticamente em Perigo (CR);CR;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Sim;3;Não;RS
 Flora;Angiospermas;Lentibulariaceae;Genlisea lobata;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Queimadas;Sim;Não;Não;2;Sim;"BA;ES;MG"
 Fauna;Aves;Scleruridae;Geositta poeciloptera;Andarilho;Em Perigo (EN);EN;"Cerrado;Mata Atlântica";"Agropecuária;Queimadas";Sim;Sim;Não;4;Não;"BA;DF;GO;MG;MS;MT;PR;SP;TO"
@@ -1433,7 +1433,7 @@ Flora;Angiospermas;Humiriaceae;Humiriastrum spiritu-sancti;-;Criticamente em Per
 Fauna;Invertebrados Terrestres;Nymphalidae;Hyalyris fiammetta;Borboleta;Criticamente em Perigo (CR)/Possivelmente Extinto (PEX);CR/PEX;"Cerrado;Mata Atlântica";"Agropecuária;Assentamento Humano:cidades";Não;Sim;Não;1;Sim;"ES;MG;RJ"
 Fauna;Invertebrados Terrestres;Nymphalidae;Hyalyris leptalina leptalina;Borboleta;Criticamente em Perigo (CR);CR;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades";Não;Sim;Não;1;Sim;
 Flora;Angiospermas;Violaceae;Hybanthus albus;-;Criticamente em Perigo (CR);CR;Caatinga;Agropecuária;Sim;Não;Não;2;Sim;"BA;MG"
-Flora;Angiospermas;Araliaceae;Hydrocotyle langsdorffii;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Agropecuária;Queimadas;Extração de Madeira;Sim;Não;Não;2;;"PR;RJ;RS;SC;SP "
+Flora;Angiospermas;Araliaceae;Hydrocotyle langsdorffii;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Agropecuária;Queimadas;Extração de Madeira;Sim;Não;Não;2;;"PR;RJ;RS;SC;SP"
 Fauna;Répteis;Dipsadidae;Hydrodynastes melanogigas;Cobra-d'água-grande-do-tocantins;Em Perigo (EN);EN;Cerrado;"Assentamento Humano:cidades;Outras Atividades Econômicas:Energia";Sim;Sim;Não;2;Sim;
 Fauna;Aves;Caprimulgidae;Hydropsalis candicans;Bacurau-de-rabo-branco;Vulnerável (VU);VU;Cerrado;Queimadas;Sim;Sim;Não;3;Não;"GO;ES;MG;MS;MT;RJ;SP"
 Fauna;Aves;Dendrocolaptidae;Hylexetastes brigidai;Arapaçu-de-loro-cinza;Vulnerável (VU);VU;Amazônia;"Agropecuária;Queimadas";Sim;Sim;Não;3;Sim;"MT;PA"
@@ -1543,7 +1543,7 @@ Flora;Angiospermas;Convolvulaceae;Ipomoea carajasensis;-;Vulnerável (VU);VU;Ama
 Flora;Angiospermas;Convolvulaceae;Ipomoea cavalcantei;-;Em Perigo (EN);EN;Amazônia;Mineração;Sim;Não;Não;2;Sim;"PA;TO"
 Flora;Angiospermas;Convolvulaceae;Ipomoea daturiflora;-;Vulnerável (VU);VU;Mata Atlântica;Turismo/Recreação;Mineração;Assentamentos Humanos: Cidades;Espécies Invasoras;Desenvolvimento e Infraestrutura;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;;"MG;RJ"
 Flora;Angiospermas;Convolvulaceae;Ipomoea macedoi;-;Criticamente em Perigo (CR);CR;Cerrado;Agropecuária;Não;Não;Não;1;;MG
-Flora;Angiospermas;Convolvulaceae;Ipomoea subrevoluta;-;Vulnerável (VU);VU;"Amazônia;Cerrado;Mata Atlântica;Pantanal";Agropecuária;Sim;Não;Não;1;;"AP;MS;MT;PR;SP "
+Flora;Angiospermas;Convolvulaceae;Ipomoea subrevoluta;-;Vulnerável (VU);VU;"Amazônia;Cerrado;Mata Atlântica;Pantanal";Agropecuária;Sim;Não;Não;1;;"AP;MS;MT;PR;SP"
 Flora;Angiospermas;Myristicaceae;Iryanthera campinae;-;Vulnerável (VU);VU;Amazônia;Mineração;Agropecuária;Sim;Não;Não;2;Sim;"AM;RR"
 Flora;Angiospermas;Orchidaceae;Isabelia virginalis;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;3;Não;"MG;RJ;SP;PR"
 Fauna;Peixes Continentais;Loricariidae;Isbrueckerichthys saxicola;Cascudo;Criticamente em Perigo (CR);CR;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades";Não;Sim;Não;1;Sim;PR
@@ -1678,9 +1678,9 @@ Fauna;Peixes Continentais;Rivulidae;Leptolebias opalescens;Peixe-anual;Criticame
 Fauna;Peixes Continentais;Rivulidae;Leptolebias splendens;Peixe-anual;Criticamente em Perigo (CR);CR;Mata Atlântica;Assentamento Humano:cidades;Não;Sim;Não;1;Sim;RJ
 Flora;Angiospermas;Asteraceae;Leptostelma catharinense;-;Em Perigo (EN);EN;Mata Atlântica;;Sim;Não;Não;2;;SC
 Flora;Angiospermas;Asteraceae;Lessingianthus adenophyllus;-;Em Perigo (EN);EN;Mata Atlântica;Queimadas;Mineração;Plantação de Madereiras;Turismo/Recreação;Sim;Sim;Não;2;Sim;"MG;RJ"
-Flora;Angiospermas;Asteraceae;Lessingianthus asteriflorus;-;Em Perigo (EN);EN;Cerrado;Espécies Invasoras;Agropecuária;Plantação de Madereiras;Espécies Invasoras;Sim;Não;Não;2;Não;"PR;RS;SP "
+Flora;Angiospermas;Asteraceae;Lessingianthus asteriflorus;-;Em Perigo (EN);EN;Cerrado;Espécies Invasoras;Agropecuária;Plantação de Madereiras;Espécies Invasoras;Sim;Não;Não;2;Não;"PR;RS;SP"
 Flora;Angiospermas;Asteraceae;Lessingianthus constrictus;-;Criticamente em Perigo (CR);CR;Pampa;Espécies Invasoras;Plantação de Madereiras;Sim;Sim;Não;2;;RS
-Flora;Angiospermas;Asteraceae;Lessingianthus eitenii;-;Em Perigo (EN);EN;Cerrado;Agropecuária;Espécies Invasoras;Assentamentos Humanos: Cidades;Sim;Não;Não;2;;"DF;GO "
+Flora;Angiospermas;Asteraceae;Lessingianthus eitenii;-;Em Perigo (EN);EN;Cerrado;Agropecuária;Espécies Invasoras;Assentamentos Humanos: Cidades;Sim;Não;Não;2;;"DF;GO"
 Flora;Angiospermas;Asteraceae;Lessingianthus exiguus;-;Vulnerável (VU);VU;"Cerrado;Mata Atlântica";Espécies Invasoras;Agropecuária;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;3;Sim;"MG;SP;PR;SC"
 Flora;Angiospermas;Asteraceae;Lessingianthus irwinii;-;Vulnerável (VU);VU;Cerrado;Agropecuária;Espécies Invasoras;Turismo/Recreação;Sim;Não;Não;2;Sim;"DF;GO;MG"
 Flora;Angiospermas;Asteraceae;Lessingianthus pumillus;-;Vulnerável (VU);VU;Cerrado;Espécies Invasoras;Agropecuária;Turismo/Recreação;Agropecuária;Sim;Não;Não;2;;"GO;MG;MS;PR;SP"
@@ -2047,7 +2047,7 @@ Fauna;Invertebrados Aquáticos;Mussidae;Mussismilia braziliensis;Coral-cérebro-
 Fauna;Invertebrados Aquáticos;Mussidae;Mussismilia harttii;Coral-vela;Em Perigo (EN);EN;Marinho;"Especies Exoticas;Extração Direta:Caça/Pesca;Extração Direta:Remocao De Corais;Mineração;Mudanca Na Dinamica Das Especies Nativas;Mudanca Na Dinamica Das Especies Nativas: Patogenias/Parasitas;Outras Atividades Econômicas:Transporte;Outras Atividades Econômicas:Turismo;Poluição;Poluição Assoreamento";Sim;Sim;Não;2;Sim;"AL;BA;CE;ES;PB;PE;PI;RN"
 Fauna;Peixes Marinhos;Triakidae;Mustelus canis;Boca-de-velha;Em Perigo (EN);EN;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Não;3;Não;"CE;MA;PE;RJ;RN;RS;SC;SE;SP"
 Fauna;Peixes Marinhos;Triakidae;Mustelus fasciatus;Cação-listrado;Criticamente em Perigo (CR);CR;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Não;2;Não;RS
-Fauna;Peixes Marinhos;Triakidae;Mustelus schmitti;Tubarão-bico-doce-pintado;Criticamente em Perigo (CR);CR;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Não;2;Não;"PR;RJ;RS;SC;SP "
+Fauna;Peixes Marinhos;Triakidae;Mustelus schmitti;Tubarão-bico-doce-pintado;Criticamente em Perigo (CR);CR;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Não;2;Não;"PR;RJ;RS;SC;SP"
 Fauna;Invertebrados Terrestres;Formicidae;Mycetagroicus urbanus;Formiga;Criticamente em Perigo (CR)/Possivelmente Extinto (PEX);CR/PEX;Mata Atlântica;"Assentamento Humano:cidades;Poluição";Não;Não;Não;0;Sim;SP
 Fauna;Invertebrados Terrestres;Formicidae;Mycetophylax simplex;Formiga;Vulnerável (VU);VU;"Mata Atlântica;Pampa";"Assentamento Humano:cidades;Outras Atividades Econômicas:Turismo";Não;Não;Não;0;Sim;"RS;SC"
 Fauna;Invertebrados Aquáticos;Mycetopodidae;Mycetopoda legumen;Faquinha-arredondada;Em Perigo (EN);EN;"Mata Atlântica;Pampa;Pantanal";"Agropecuária;Assentamento Humano:cidades;Especies Exoticas;Mudanca Na Dinamica Das Especies Nativas;Outras Atividades Econômicas:Energia;Poluição";Sim;Não;Não;2;Não;RS
@@ -2162,7 +2162,7 @@ Fauna;Aves;Tinamidae;Nothura minor;Codorna-mineira;Em Perigo (EN);EN;"Cerrado;Ma
 Flora;Angiospermas;Asteraceae;Noticastrum hatschbachii;-;Em Perigo (EN);EN;"Mata Atlântica;Pampa";Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Sim;"RS;SC"
 Flora;Angiospermas;Asteraceae;Noticastrum malmei;-;Em Perigo (EN);EN;Mata Atlântica;Desenvolvimento e Infraestrutura;Sim;Sim;Não;2;Sim;"RS;SC"
 Flora;Angiospermas;Asteraceae;Noticastrum psammophilum;-;Em Perigo (EN);EN;"Mata Atlântica;Pampa";Desenvolvimento e Infraestrutura;Sim;Sim;Não;2;Sim;"RS;SC"
-Fauna;Peixes Marinhos;Hexanchidae;Notorynchus cepedianus;Cação-bruxa;Criticamente em Perigo (CR);CR;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Não;2;Não;" PR;RJ;RS;SC;SP"
+Fauna;Peixes Marinhos;Hexanchidae;Notorynchus cepedianus;Cação-bruxa;Criticamente em Perigo (CR);CR;Marinho;Extração Direta:Caça/Pesca;Sim;Sim;Não;2;Não;"PR;RJ;RS;SC;SP"
 Flora;Angiospermas;Orchidaceae;Notylia microchila;-;Em Perigo (EN);EN;"Amazônia;Cerrado;Mata Atlântica";Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Não;"BA;ES;PA;PE"
 Fauna;Invertebrados Terrestres;Sphingidae;Nyceryx mielkei;Mariposa;Criticamente em Perigo (CR);CR;Cerrado;"Agropecuária;Poluição";Não;Não;Não;0;Sim;MA
 Fauna;Aves;Nyctibiidae;Nyctibius aethereus aethereus;Mãe-da-lua-parda;Em Perigo (EN);EN;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades";Sim;Não;Não;3;Não;"AC;AM;BA;ES;MG;MT;PA;PR;RJ;SP"
@@ -2179,12 +2179,12 @@ Flora;Angiospermas;Lauraceae;Ocotea confertiflora;-;Vulnerável (VU);VU;Mata Atl
 Flora;Angiospermas;Lauraceae;Ocotea cryptocarpa;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;ES
 Flora;Angiospermas;Lauraceae;Ocotea felix;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;SP
 Flora;Angiospermas;Lauraceae;Ocotea mosenii;canela preta;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Poluição;Extração de Madeira;Mineração;Sim;Não;Não;2;Sim;SP
-Flora;Angiospermas;Lauraceae;Ocotea odorifera;canela sassafrás;Em Perigo (EN);EN;"Cerrado;Mata Atlântica";Extração de Madeira;Perda de Habitat/Degradação (Induzida por Humanos);Baixo Recrutamento/Reprodução/Regeneração;Endogamia;Sim;Sim;Não;3;Sim;"BA;ES;MG;PR;RJ;RS;SC;SP "
+Flora;Angiospermas;Lauraceae;Ocotea odorifera;canela sassafrás;Em Perigo (EN);EN;"Cerrado;Mata Atlântica";Extração de Madeira;Perda de Habitat/Degradação (Induzida por Humanos);Baixo Recrutamento/Reprodução/Regeneração;Endogamia;Sim;Sim;Não;3;Sim;"BA;ES;MG;PR;RJ;RS;SC;SP"
 Flora;Angiospermas;Lauraceae;Ocotea porosa;-;Em Perigo (EN);EN;Mata Atlântica;Extração de Madeira;Sim;Sim;Não;3;Sim;"MG;PR;RJ;SC;SP"
 Flora;Angiospermas;Lauraceae;Ocotea serrana;canelinha;Em Perigo (EN);EN;Mata Atlântica;Extração de Madeira;Distribuição Restrita;Sim;Não;Não;2;Sim;SP
 Flora;Angiospermas;Lauraceae;Ocotea tabacifolia;-;Em Perigo (EN);EN;"Amazônia;Cerrado;Mata Atlântica";Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;3;;"AM;MG;RO;RJ;SP"
 Flora;Angiospermas;Orchidaceae;Octomeria alexandri;-;Em Perigo (EN);EN;"Cerrado;Mata Atlântica";Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;"BA;RJ;RS;SP"
-Flora;Angiospermas;Orchidaceae;Octomeria chamaeleptotes;-;Vulnerável (VU);VU;Mata Atlântica;Queimadas;Sim;Sim;Não;3;Não;"ES;PR;RJ;RS;SC "
+Flora;Angiospermas;Orchidaceae;Octomeria chamaeleptotes;-;Vulnerável (VU);VU;Mata Atlântica;Queimadas;Sim;Sim;Não;3;Não;"ES;PR;RJ;RS;SC"
 Flora;Angiospermas;Orchidaceae;Octomeria geraensis;-;Vulnerável (VU);VU;Mata Atlântica;Agropecuária;Sim;Não;Não;2;Sim;"ES;MG;RJ;SP"
 Flora;Angiospermas;Orchidaceae;Octomeria hatschbachii;-;Vulnerável (VU);VU;"Caatinga;Mata Atlântica";Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;"BA;PR;RJ;SC;SP"
 Flora;Angiospermas;Orchidaceae;Octomeria hoehnei;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;SP
@@ -2231,7 +2231,7 @@ Flora;Angiospermas;Oxalidaceae;Oxalis blackii;-;Criticamente em Perigo (CR);CR;M
 Flora;Angiospermas;Oxalidaceae;Oxalis clausenii;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Agropecuária;Sim;Não;Não;2;Sim;ES
 Flora;Angiospermas;Oxalidaceae;Oxalis diamantinae;-;Criticamente em Perigo (CR);CR;Cerrado;Mineração;Turismo/Recreação;Sim;Sim;Não;2;Sim;MG
 Flora;Angiospermas;Oxalidaceae;Oxalis doceana;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Plantação de Madereiras;Sim;Não;Não;2;Sim;ES
-Flora;Angiospermas;Oxalidaceae;Oxalis hyalotricha;"brusquilla;tacuarembó";Em Perigo (EN);EN;"Caatinga;Mata Atlântica";Extração de Madeira;Sim;Não;Não;2;Não;"MS;PR;SP "
+Flora;Angiospermas;Oxalidaceae;Oxalis hyalotricha;"brusquilla;tacuarembó";Em Perigo (EN);EN;"Caatinga;Mata Atlântica";Extração de Madeira;Sim;Não;Não;2;Não;"MS;PR;SP"
 Flora;Angiospermas;Oxalidaceae;Oxalis impatiens;-;Em Perigo (EN);EN;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Não;Não;Não;1;Sim;"ES;RJ"
 Flora;Angiospermas;Oxalidaceae;Oxalis kuhlmannii;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;"ES;MG"
 Flora;Angiospermas;Oxalidaceae;Oxalis mandioccana;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;"ES;MG;RJ"
@@ -2338,7 +2338,7 @@ Flora;Pteridófitas;Pteridaceae;Pellaea cymbiformis;-;Em Perigo (EN);EN;Cerrado;
 Flora;Pteridófitas;Pteridaceae;Pellaea gleichenioides;-;Em Perigo (EN);EN;Cerrado;Mineração;Turismo/Recreação;Sim;Sim;Não;2;Sim;MG
 Flora;Angiospermas;Fabaceae;Peltogyne maranhensis;-;Vulnerável (VU);VU;Amazônia;Extração de Madeira;Sim;Não;Não;1;Sim;"MA;MT;PA"
 Fauna;Aves;Cracidae;Penelope jacucaca;Jacucaca;Vulnerável (VU);VU;Caatinga;"Agropecuária;Extração Direta:Caça/Pesca";Sim;Não;Não;3;Sim;"BA;CE;MG;PB;PE;PI"
-Fauna;Aves;Cracidae;Penelope ochrogaster;Jacu-de-barriga-castanha;Vulnerável (VU);VU;"Cerrado;Pantanal";"Agropecuária;Extração Direta:Caça/Pesca;Queimadas";Sim;Sim;Não;2;Sim;" GO;MS;MT;TO"
+Fauna;Aves;Cracidae;Penelope ochrogaster;Jacu-de-barriga-castanha;Vulnerável (VU);VU;"Cerrado;Pantanal";"Agropecuária;Extração Direta:Caça/Pesca;Queimadas";Sim;Sim;Não;2;Sim;"GO;MS;MT;TO"
 Fauna;Aves;Cracidae;Penelope pileata;Jacupiranga;Vulnerável (VU);VU;Amazônia;"Agropecuária;Extração Direta:Caça/Pesca";Sim;Não;Não;3;Sim;"AM;MA;PA"
 Fauna;Aves;Cracidae;Penelope superciliaris alagoensis;Jacupemba;Criticamente em Perigo (CR);CR;Mata Atlântica;"Agropecuária;Extração Direta:Caça/Pesca";Sim;Não;Não;2;Sim;"PB;PE;RN"
 Flora;Angiospermas;Piperaceae;Peperomia cordigera;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;;"ES;MG"
@@ -2368,7 +2368,7 @@ Flora;Angiospermas;Solanaceae;Petunia mantiqueirensis;-;Em Perigo (EN);EN;Mata A
 Flora;Angiospermas;Solanaceae;Petunia reitzii;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Mudança na Dinâmica das Espécies Nativas;Distribuição Restrita;Plantação de Madereiras;Sim;Não;Não;2;;SC
 Flora;Angiospermas;Solanaceae;Petunia saxicola;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Mudança na Dinâmica das Espécies Nativas;Distribuição Restrita;Plantação de Madereiras;Não;Não;Não;1;Sim;SC
 Flora;Angiospermas;Amaranthaceae;Pfaffia argyrea;-;Em Perigo (EN);EN;Cerrado;Agropecuária;Queimadas;Sim;Sim;Não;2;Sim;MG
-Flora;Angiospermas;Amaranthaceae;Pfaffia minarum;-;Vulnerável (VU);VU;Cerrado;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Não;"AM;BA;GO;MG;MS;MT;PA;PB;PE;PR;RO;RJ;RR;RS;SP "
+Flora;Angiospermas;Amaranthaceae;Pfaffia minarum;-;Vulnerável (VU);VU;Cerrado;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Não;"AM;BA;GO;MG;MS;MT;PA;PB;PE;PR;RO;RJ;RR;RS;SP"
 Fauna;Aves;Phaethontidae;Phaethon aethereus;Rabo-de-palha-de-bico-vermelho;Em Perigo (EN);EN;Marinho;Especies Exoticas;Sim;Sim;Não;2;Não;"BA;MA;PE"
 Fauna;Aves;Phaethontidae;Phaethon lepturus;Rabo-de-palha-de-bico-laranja;Em Perigo (EN);EN;Marinho;Especies Exoticas;Sim;Sim;Não;2;Não;"BA;PE"
 Fauna;Aves;Trochilidae;Phaethornis aethopygus;Rabo-branco-de-garganta-escura;Vulnerável (VU);VU;Amazônia;"Agropecuária;Extração Florestal;Outras Atividades Econômicas:Transporte";Não;Sim;Não;2;Sim;"MT;PA"
@@ -2412,7 +2412,7 @@ Fauna;Aves;Rhynchocyclidae;Phylloscartes roquettei;Cara-dourada;Em Perigo (EN);E
 Flora;Angiospermas;Orchidaceae;Phymatidium geiselii;-;Em Perigo (EN);EN;Mata Atlântica;Turismo/Recreação;Sim;Não;Não;2;Sim;ES
 Flora;Angiospermas;Orchidaceae;Phymatidium glaziovii;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;"ES;RJ"
 Flora;Angiospermas;Orchidaceae;Phymatidium vogelii;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Sim;SP
-Fauna;Invertebrados Aquáticos;Physidae;Physa marmorata;Caramujo;Vulnerável (VU);VU;"Amazônia;Caatinga;Cerrado;Mata Atlântica";"Assentamento Humano:cidades;Especies Exoticas;Outras Atividades Econômicas:Energia;Poluição";Sim;Não;Não;2;Não;"BA;GO;MA;MG;MT;PR;RJ;RO;RN;SC;SP;TO "
+Fauna;Invertebrados Aquáticos;Physidae;Physa marmorata;Caramujo;Vulnerável (VU);VU;"Amazônia;Caatinga;Cerrado;Mata Atlântica";"Assentamento Humano:cidades;Especies Exoticas;Outras Atividades Econômicas:Energia;Poluição";Sim;Não;Não;2;Não;"BA;GO;MA;MG;MT;PR;RJ;RO;RN;SC;SP;TO"
 Fauna;Anfíbios;Leptodactylidae;Physalaemus caete;Desconhecido;Em Perigo (EN);EN;Mata Atlântica;"Agropecuária;Assentamento Humano:rurais";Não;Sim;Não;2;Sim;AL
 Fauna;Anfíbios;Leptodactylidae;Physalaemus maximus;Desconhecido;Vulnerável (VU);VU;Mata Atlântica;"Assentamento Humano:rurais;Queimadas";Sim;Sim;Não;3;Sim;"ES;MG"
 Fauna;Anfíbios;Leptodactylidae;Physalaemus soaresi;Rãzinha;Criticamente em Perigo (CR);CR;Mata Atlântica;"Agropecuária;Assentamento Humano:cidades;Outras Atividades Econômicas:Transporte;Queimadas";Sim;Sim;Não;3;Sim;RJ
@@ -2787,7 +2787,7 @@ Fauna;Aves;Tyrannidae;Serpophaga hypoleuca pallida;Alegrinho-do-rio;Vulnerável 
 Flora;Angiospermas;Poaceae;Setaria parviflora var. pilosissima;-;Criticamente em Perigo (CR);CR;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Não;Não;2;Não;"PR;RS;SP"
 Flora;Angiospermas;Poaceae;Setaria stolonifera;-;Criticamente em Perigo (CR);CR;Pampa;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Sim;RS
 Flora;Angiospermas;Commelinaceae;Siderasis fuscata;-;Em Perigo (EN);EN;Mata Atlântica;Agropecuária;Plantação de Madereiras;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;2;Sim;RJ
-Flora;Angiospermas;Simaroubaceae;Simaba glabra;"marupá do cerrado;mata-barata branco";Vulnerável (VU);VU;"Amazônia;Cerrado";;Sim;Sim;Não;2;Não;"GO;MA;MG;MS;MT;SP "
+Flora;Angiospermas;Simaroubaceae;Simaba glabra;"marupá do cerrado;mata-barata branco";Vulnerável (VU);VU;"Amazônia;Cerrado";;Sim;Sim;Não;2;Não;"GO;MA;MG;MS;MT;SP"
 Flora;Angiospermas;Simaroubaceae;Simaba insignis;"calunga;paraíba-mirim";Em Perigo (EN);EN;Mata Atlântica;;Sim;Sim;Não;2;Sim;"ES;RJ;SP"
 Flora;Angiospermas;Simaroubaceae;Simaba salubris;-;Criticamente em Perigo (CR);CR;Cerrado;Agropecuária;Espécies Invasoras;Sim;Não;Não;2;Sim;"MS;SP"
 Flora;Angiospermas;Simaroubaceae;Simaba suaveolens;-;Criticamente em Perigo (CR);CR;Cerrado;;Sim;Não;Não;2;Sim;MG
@@ -3277,7 +3277,7 @@ Flora;Angiospermas;Amaryllidaceae;Zephyranthes brasiliensis;-;Vulnerável (VU);V
 Flora;Angiospermas;Amaryllidaceae;Zephyranthes candida;-;Em Perigo (EN);EN;"Mata Atlântica;Pampa";Agropecuária;Plantação de Madereiras;Espécies Invasoras;Extração de Não Madereiras;Não;Não;Não;1;Não;"PR;RS;SC;SP"
 Flora;Angiospermas;Amaryllidaceae;Zephyranthes capivarina;-;Vulnerável (VU);VU;Mata Atlântica;Perda de Habitat/Degradação (Induzida por Humanos);Não;Não;Não;1;Sim;PR
 Flora;Angiospermas;Amaryllidaceae;Zephyranthes paranaensis;-;Em Perigo (EN);EN;Mata Atlântica;Distribuição Restrita;Perda de Habitat/Degradação (Induzida por Humanos);Espécies Invasoras;Não;Não;Não;1;Sim;PR
-Flora;Angiospermas;Bignoniaceae;Zeyheria tuberculosa;"ipe branco;buxo de boi;culhoes de bode";Vulnerável (VU);VU;"Cerrado;Mata Atlântica";Extração de Madeira;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;3;Não;"AL;BA;CE;ES;MA;MG;MS;PI;RN;PB;PR;PE;RJ;SE;SP "
+Flora;Angiospermas;Bignoniaceae;Zeyheria tuberculosa;"ipe branco;buxo de boi;culhoes de bode";Vulnerável (VU);VU;"Cerrado;Mata Atlântica";Extração de Madeira;Perda de Habitat/Degradação (Induzida por Humanos);Sim;Sim;Não;3;Não;"AL;BA;CE;ES;MA;MG;MS;PI;RN;PB;PR;PE;RJ;SE;SP"
 Flora;Angiospermas;Poaceae;Zizaniopsis bonariensis;-;Em Perigo (EN);EN;"Mata Atlântica;Pampa";Perda de Habitat/Degradação (Induzida por Humanos);Mineração;Espécies Invasoras;Agropecuária;Não;Sim;Não;2;Não;"MG;RS"
 Flora;Angiospermas;Fabaceae;Zollernia magnifica;-;Vulnerável (VU);VU;Mata Atlântica;Assentamentos Humanos: Cidades;Agropecuária;Sim;Não;Não;2;Sim;BA
 Fauna;Invertebrados Terrestres;Hesperiidae;Zonia zonia diabo;Borboleta;Em Perigo (EN);EN;"Cerrado;Mata Atlântica";"Agropecuária;Assentamento Humano:cidades";Sim;Sim;Não;3;Sim;"GO;PR;SP"
